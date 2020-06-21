@@ -13,7 +13,7 @@
 % Zachary Taylor
 %
 % v1.3 repository:
-% https://github.com/ZDTaylor/Deedy-Resume-Reversed
+% https://github.com/ZDTaylor/Deedy-Resume
 %
 % IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
 %
@@ -78,8 +78,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Zachary Taylor}{ %\urlstyle{same}\href{http://example.com}{example.com}| \href{http://example2.co}{example2.co}\\
-\href{mailto:zacharydtaylor1997@gmail.com}{zacharydtaylor1997@gmail.com} | \href{tel:16156635675}{615.663.5675}
+\namesection{Ian Joshua Anderson}{ %\urlstyle{same}\href{http://example.com}{example.com}| \href{http://example2.co}{example2.co}\\
+\href{mailto:ij@ianjoshua.com}{ij@ianjoshua.com} | \href{tel:8316019817}{831.601.9817}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -95,9 +95,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{ADTRAN}
-\descript{| Advanced Development Intern }
-\location{May 2018 – Aug 2018 | Huntsville, AL}
+\runsubsection{Audible (Amazon)}
+\descript{| Product Manager }
+\location{June 2019 – Present | Newark, NJ}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Developed a cloud-based solution to automate and enhance the engineering process for network installation using AWS and Python.
@@ -133,22 +133,21 @@
 %     PROJECTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Projects}
-\runsubsection{State Space Robotics Team}
-\descript{| Path-Planning Lead}
-\location{Jan 2018 – Present | Mississippi State, MS}
+\section{Education}
+\runsubsection{Cornell Tech}
+\descript{| Johnson Cornell Tech MBA}
+\location{May 2019 | New York, NY}
 \begin{tightemize}
-\item Spearhead the development effort for the path-planning functionality of a team of three robots.
-\item ROS provides movement servers and the planning is being implemented in Python to allow for fully-autonomous operation.
+\item Merit Scholar; Johnson Dean’s List; Emerging Markets Institute Fellow; Data Analytics TA; 1st Place, iTreck Hackathon
+\item  Asine.me – Led five-person multidisciplinary team, with support from Mastercard, using predictive analytics to improve sales efficiency through lead assignment process
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Chit Chat}
-\descript{| Class Project for Distributed Client-Server Programming}
-\location{Jan 2018 – May 2018 | Mississippi State, MS}
+\runsubsection{University of California, Santa Cruz}
+\descript{| BA Sociology; Global Information and Social Enterprise Studies}
+\location{Sept. 2007 – June 2011 | Santa Cruz, CA}
 \begin{tightemize}
-\item Lead the development of \textbf{\href{https://github.com/ZDTaylor/ChitChat}{Chit Chat}}, an anonymous chat application created as a class project.
-\item Chit Chat provides real-time communication while utilizing a PHP backend and AngularJS frontend.
+\item Everett Program Fellow; TA for Sociology 30A, B, C; Capacity Building Intern at CITAD in Kano, Nigeria
 \end{tightemize}
 \sectionsep
 
@@ -232,11 +231,14 @@
 
 \section{Education}
 
-\subsection{Mississippi State University}
-\descript{Bachelor of Science in Computer Science with minors in Mathematics and Statistics}
-\location{Expected Dec 2019 | Starkville, MS}
+\subsection{Cornell Tech}
+\descript{MBA}
 % College of Engineering \\
 Dean's List (All Semesters) \\
+\location{ Cum. GPA: 4.0 / 4.0}
+\subsection{University of California, Santa Cruz}
+\descript{BA | Global Information and Social Enterprise Studies}
+% College of Engineering \\
 \location{ Cum. GPA: 4.0 / 4.0}
 \sectionsep
 
@@ -280,11 +282,12 @@ Introduction to Probability \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     Societies
+%     Additional
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Societies}
-Association for Computing Machinery (ACM)\\
+\section{Additional}
+Cornell Tech Product Studio Advisor (2019 - Present)\\
+Everett Program Alumni\\
 Scrum Alliance Certified ScrumMaster\\
 Shackouls Honors College\\
 National Merit Scholarship Finalist \\
@@ -295,9 +298,8 @@ National Merit Scholarship Finalist \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Links}
-Github:// \href{https://github.com/ZDTaylor}{\bf ZDTaylor} \\
-LinkedIn://  \href{https://www.linkedin.com/in/zacharydtaylor1}{\bf zacharydtaylor1} \\
-Career Center:// \href{https://msstate-csm.symplicity.com/profiles/zachary.taylor3}{\bf zachary.taylor3}
+\href{https://www.linkedin.com/in/ianjanderson/}{\bf linkedin.com/in/ianjanderson/} \\
+\href{https://ianjoshua.com/}{\bf ianjoshua.com} \\
 \sectionsep
 
 \end{minipage}
