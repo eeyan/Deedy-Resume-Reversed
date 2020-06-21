@@ -232,37 +232,35 @@
 %     EDUCATION
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Education}
-
-\subsection{Cornell Tech}
-\descript{MBA}
+% \section{Education}
+%
+% \subsection{Cornell Tech}
+% \descript{MBA}
 % College of Engineering \\
-Dean's List (All Semesters) \\
-\location{ Cum. GPA: 4.0 / 4.0}
-\subsection{University of California, Santa Cruz}
-\descript{BA | Global Information and Social Enterprise Studies}
+% Dean's List (All Semesters) \\
+% \location{ Cum. GPA: 4.0 / 4.0}
+% \subsection{University of California, Santa Cruz}
+% \descript{BA | Global Information and Social Enterprise Studies}
 % College of Engineering \\
-\location{ Cum. GPA: 4.0 / 4.0}
-\sectionsep
+% \location{ Cum. GPA: 4.0 / 4.0}
+%  \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Skills}
-\subsection{Programming}
-\location{3+ years:}
-Python \textbullet{} C/C++ \\
-\location{1+ years:}
-PHP \textbullet{} JavaScript \\
-\location{0+ years:}
-Matlab \textbullet{} R \textbullet{} SAS \\
+\subsection{Core}
+Data Analysis \textbullet{} Product Roadmaps \\
+Stakeholder Management \\
+Cross-functional Communication \\
+Requirements Gathering \\
 \sectionsep
 
 \subsection{Technology}
-Git/Github \textbullet{} AWS \textbullet{} Linux \\
-UNIX \textbullet{} Windows \textbullet{} ROS \\
-Artificial Intelligence \textbullet{} Automation \\
+AWS \textbullet{} SQL \textbullet{} WordPress \\
+Python \textbullet{} HTML \textbullet{} CSS \textbullet{} APIs\\
+Agile \textbullet{} XML \textbullet{} Ruby on Rails\\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -289,11 +287,8 @@ Introduction to Probability \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Additional}
-Cornell Tech Product Studio Advisor (2019 - Present)\\
+Cornell Tech Product Studio Advisor\\
 Everett Program Alumni\\
-Scrum Alliance Certified ScrumMaster\\
-Shackouls Honors College\\
-National Merit Scholarship Finalist \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
