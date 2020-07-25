@@ -1,7 +1,4 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Ian Joshua Anderson Resume
-% Started June 22, 2020
-%
 % Deedy - One Page Two Column Resume
 % LaTeX Template
 % Version 1.3 (22/9/2018)
@@ -103,32 +100,35 @@
 \location{June 2019 – Present | Newark, NJ}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Developed a cloud-based solution to automate and enhance the engineering process for network installation using AWS and Python.
-\item Worked with other teams to create a system to collect and visualize telemetry data of network elements in real time using AWS, Python, and DOMO.
-\item Consulted with other teams to jump start cloud-technology adoption and solutions throughout the company.
-\item Contributed to initial planning for optics-alignment system utilizing AWS, reinforcement learning, and an IoT architecture.
+\item A
+\item B
+\item C
+\item D
 \end{tightemize}
 \sectionsep
 
-\runsubsection{ExxonMobil IT}
-\descript{| Intern }
-\location{Feb 2017 – Nov 2017 | The Woodlands, TX}
+\runsubsection{Infobase}
+\descript{| Product Manager}
+\location{February 2015 – May 2018 | New York, NY}
 \begin{tightemize}
-\item Coordinated with multiple departments to lead a software product evaluation resulting in a fit-for-purpose verdict and provided a recommendation on moving forward.
-\item Organized meetings with the vendor to receive in-depth product information and answers to cross-departmental questions.
-\item Participated on the Web Development Taskforce to provide AngularJS sites to internal customers.
-\item Participated in an internal CodeJam to prototype a blockchain application for managing a model supply-chain.
-\item Worked with a team to plan executive visit and team-building exercise for 200 employees.
+\item Oversaw agile development of educational video streaming and admin portal products, including tailored market solutions. Reported to Director of Digital Services, leading team of 3-4 engineers.
+\item B
+\item Charged to develop product roadmap following acquisition of Learn360; evaluated needs, developed full strategic plan, and attained approval at executive levels. Successfully migrated data and updated features to streamline experience for 1M+ users at 10K+ institutions.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Mississippi State University ITS}
-\descript{| Assistant Support Specialist }
-\location{Aug 2015 – Oct 2016 | Mississippi State, MS}
+\runsubsection{IJD}
+\descript{| Independent Business Consultant}
+\location{June 2010 – August 2016 | CA & NY}
 \begin{tightemize}
-\item Interacted with clients to assess their problems and implement a solution in an efficient, friendly manner.
-\item Prepared workstations and laptops for future use by company employees.
-\item Created scripts to automate common tasks and increase productivity.
+\item Partnered with small business and NGO clients to understand organizational goals and implement digital transformation projects.
+\item Led engagements throughout lifecycle, including contract negotiation, solutions strategy, implementation, and relationship management.
+\item \textit{Select Engagements:}
+\begin{tightemize}
+\vspace{\topsep}
+\item Reduced scheduling department overhead by 65\% for service business by redesigning procedures and implementing new calendar system.
+\item Developed online strategy for health education nonprofit, including technical implementation and staff training.
+\end{tightemize}
 \end{tightemize}
 \sectionsep
 
