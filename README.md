@@ -1,7 +1,7 @@
 Deedy-Resume-Reversed
 =========================
 
-A **one-page**, **two asymmetric column** resume template in **XeTeX** that caters particularly to an **undergraduate Computer Science** student.
+A **one-page**, **two asymmetric column** resume template in **XeTeX**.
 As of **v1.3**, a single template is offered that uses free, clean fonts - *Lato* (and its various variants) and *Raleway*.
 
 It is licensed under the Apache License 2.0.
@@ -9,10 +9,6 @@ It is licensed under the Apache License 2.0.
 ## Motivation
 
 This fork of the [Deedy-Resume by Deedy](https://github.com/Deedy/Deedy-Resume) was inspired by feedback from /r/resumes and my university career center.  The fonts are a bit heavier and the columns have been reversed to highlight experience first when read in a "Z" pattern.
-
-## Preview
-
-![alt tag](https://raw.githubusercontent.com/ZDTaylor/Deedy-Resume-Reversed/master/sample-image.png)
 
 ## Dependencies
 
