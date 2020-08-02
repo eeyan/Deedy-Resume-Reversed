@@ -271,7 +271,7 @@ Proven product manager with experience in B2B and internal tools. A strong focus
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+\sectionsep
 \section{Skills}
 \subsection{Core}
 Product Vision \textbullet{} Strategy \\
@@ -292,7 +292,7 @@ Python \textbullet{} Serverless Architecture
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Additional
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+\sectionsep
 \section{Additional}
 Cornell Tech Product Studio Advisor\\
 Everett Program Alumni\\
@@ -302,12 +302,12 @@ Guest Lecturer on Product Management (multiple universities in NY area)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Interests
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+\sectionsep
 \section{Interests}
 Continuous learning methodologies\\
 Experiencing new cultures\\
-Personal productivity
-Reading (favorite books are The Diamond Age by Neil Stephenson and The War of Art by Stephen Pressfield)\\
+Personal productivity\\
+Reading (see \href{https://ianjoshua.com/bookshelf}{\bf ianjoshua.com/bookshelf} for my recommended reading list)
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
